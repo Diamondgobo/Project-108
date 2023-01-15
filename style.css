@@ -1,0 +1,19 @@
+body {
+    font-family: 'Shadows Into Light', cursive;
+    background-color: aquamarine;
+    color:blueviolet;
+}
+
+#copyright-pmm{
+    text-align: center;
+    text-decoration:underline;
+}
+
+#title{
+    text-decoration:overline;
+}
+
+#hi {
+    color: blueviolet;
+    background-color:coral;
+}
